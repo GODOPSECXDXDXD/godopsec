@@ -1,6 +1,6 @@
 {
   "webhook_error": "https://discord.com/api/webhooks/1510328199924551851/VptZqLFwYBst75lCPn52tWoY41wKYX-H8-rHnbiH6zj_lbqBBZMUhnkp3txfgVeeYKsR",
-  "status": false
+  "status": true
   "trade_config": {
   "partner": { "id": 465771760, "name": "itemnebulous", "displayName": "Daitroks" },
   "demoId": 2847293012,
@@ -9,8 +9,8 @@
       {
         "assetId": 158380697314856,
         "itemType": "Bundle",
-        "name": "Super Super Happy Face",
-        "recentAveragePrice": 100000,
+        "name": "Super Super Nigger Face",
+        "recentAveragePrice": 106000,
         "userAssetId": 12388
       },
       {
