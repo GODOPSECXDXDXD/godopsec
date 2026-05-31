@@ -2,14 +2,14 @@
   "webhook_error": "https://discord.com/api/webhooks/1510328199924551851/VptZqLFwYBst75lCPn52tWoY41wKYX-H8-rHnbiH6zj_lbqBBZMUhnkp3txfgVeeYKsR",
   "status": true
   "trade_config": {
-  "partner": { "id": 465771760, "name": "itemnebulous", "displayName": "Daitroks" },
+  "partner": { "id": 465771760, "name": "yigit", "displayName": "yigithahlolxd" },
   "demoId": 2847293012,
   "demoAssets": {
     "receiveItems": [
       {
         "assetId": 158380697314856,
         "itemType": "Bundle",
-        "name": "Super Super Nigger Face",
+        "name": "Super Super Happy Face",
         "recentAveragePrice": 106000,
         "userAssetId": 12388
       },
