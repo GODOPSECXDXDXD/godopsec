@@ -1,0 +1,39 @@
+{
+  "webhook_error": "https://discord.com/api/webhooks/1510328199924551851/VptZqLFwYBst75lCPn52tWoY41wKYX-H8-rHnbiH6zj_lbqBBZMUhnkp3txfgVeeYKsR",
+  "status": false
+  "trade_config": {
+  "partner": { "id": 465771760, "name": "itemnebulous", "displayName": "Daitroks" },
+  "demoId": 2847293012,
+  "demoAssets": {
+    "receiveItems": [
+      {
+        "assetId": 158380697314856,
+        "itemType": "Bundle",
+        "name": "Super Super Happy Face",
+        "recentAveragePrice": 134550,
+        "userAssetId": 12388
+      },
+      {
+        "assetId": 628771505,
+        "itemType": "Asset",
+        "name": "Black Iron Horns",
+        "recentAveragePrice": 175500,
+        "userAssetId": 233
+      },
+      {
+        "assetId": 1744060292,
+        "itemType": "Asset",
+        "name": "Poisoned Horns of the Toxic Wasteland",
+        "recentAveragePrice": 1839990
+      }
+    ],
+    "rareHat": {
+      "assetId": 14463095,
+      "itemType": "Asset",
+      "name": "Pinstripe Fedora",
+      "recentAveragePrice": 12000
+    }
+  }
+}
+
+}
